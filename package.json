@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "otp-generator": "^4.0.1",
+    "twilio": "^4.22.0"
+  }
+}
