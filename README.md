@@ -6,7 +6,12 @@
 ## Run Backend
 &nbsp;&nbsp;&nbsp;&nbsp;> <code>cd backend</code>
 &nbsp;&nbsp;&nbsp;&nbsp;> <code>npm install</code>
-&nbsp;&nbsp;&nbsp;&nbsp;> <code>node app.js</code>       
+&nbsp;&nbsp;&nbsp;&nbsp;> <code>node app.js</code>  
+
+## Add ENV variables
+CONNECT = {mongodb connection link} <br/>
+JWT_SECRET = {any string}
+
 
 <br/>
 
